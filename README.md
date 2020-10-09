@@ -1,2 +1,2 @@
 # Hackerrank-Challenges
-Compilation of most of the hackerrank challenges
+Compilation of most of the hackerrank Practice challenges
